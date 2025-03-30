@@ -1,0 +1,4 @@
+openai~=1.59.7
+sentence-transformers
+faiss-cpu
+numpy
